@@ -1,4 +1,4 @@
-###Development
+### Development
 - [ ] Understand what restdb is
 - [ ] Understand how to use swagger.json file
 Are these used to connect to the endpoint given in the email?
@@ -16,4 +16,3 @@ It seems like those tool will replace babel and webopack.
 - [ ] Unit tests -> and how?
       - API route returns X result with Y variable
       - Modal status is true when clicking on 'Create Booking'
-      
